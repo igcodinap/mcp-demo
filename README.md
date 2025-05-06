@@ -1,1 +1,1 @@
-A test project.
+A test project. Updated with MCP tool.
